@@ -1,1 +1,0 @@
-# SQLparc_informatique
